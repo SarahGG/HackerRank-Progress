@@ -1,2 +1,5 @@
 Progress on lessions for hackerrank.com
 Profile: https://www.hackerrank.com/guarino_sgg
+
+Java -
+Completed: Welcome to Java!
