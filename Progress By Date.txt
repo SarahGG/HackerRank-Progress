@@ -6,3 +6,4 @@ Completed: Welcome to Java!
 Completed: Java Stdin and Stdout I
 Completed: Java If-Else
 Completed: Java Stdin and Stdout II
+Completed: Java Output Formatting
