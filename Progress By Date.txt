@@ -8,3 +8,4 @@ Completed: Java If-Else
 Completed: Java Stdin and Stdout II
 Completed: Java Output Formatting
 Completed: Java Loops I
+Completed: Java Datatypes
