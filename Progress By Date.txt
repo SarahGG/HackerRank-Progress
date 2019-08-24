@@ -10,3 +10,4 @@ Completed: Java Output Formatting
 Completed: Java Loops I
 Completed: Java Datatypes
 Completed: Java End-of-file
+Completed: Java Int to String
